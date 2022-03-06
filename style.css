@@ -54,8 +54,12 @@ a:focus {
 
 table {
     margin-top: 3ex;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
 }
-
+th {
+    border: 1px solid #ddd;
+}
 td {
     border: 1px solid #ddd;
     background-color: #fff;
