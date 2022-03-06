@@ -1,5 +1,5 @@
 # Boycott Russia
-
+https://boycottrussia.world/
 
 ## Add / Remove companies
 Please open issue and/or PR to add/remove companies
