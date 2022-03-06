@@ -1,0 +1,41 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.table-container {
+    display: flex;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #cecece;
+}
+
+thead th:nth-child(1) {
+    width: 10%;
+}
+
+thead th:nth-child(2) {
+    width: 60%;
+}
+
+thead th:nth-child(3) {
+    width: 30%;
+}
+
+th, td {
+    border: 1px solid;
+    padding: 20px;
+}
