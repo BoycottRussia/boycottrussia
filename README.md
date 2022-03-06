@@ -1,8 +1,8 @@
-# boikottilista
+# Boycott Russia
 
 
-## Lisää / Poista yrityksiä
-Lisätäksesi listaan uusia firmoja tai poistaaksesi niitä niin avaathan joko uuden PR:n tai issuen.
+## Add / Remove companies
+Please open issue and/or PR to add/remove companies
 
-## Tyylitys
-Tällä hetkellä sivuston tyyli on mitä on ja apuja sen toteuttamiseen otetaan vastaan!
+## Styling
+The styling of the site is kind of broken and it needs help! Please open PR.
